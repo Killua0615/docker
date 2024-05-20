@@ -1,0 +1,12 @@
+# Dockerの関連ファイル
+.dockerignore
+Dockerfile
+
+.git
+
+log/*
+tmp/*
+
+.bundle
+vendor/bundle
+node_modules
